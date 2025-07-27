@@ -1,0 +1,10 @@
+streamlit
+torch
+torchvision
+transformers
+pillow
+requests
+numpy
+opencv-python
+plotly
+accelerate

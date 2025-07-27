@@ -14,14 +14,6 @@ A **Streamlit** web application that generates intelligent captions and scene de
 ✅ Visualize confidence levels with interactive charts  
 ✅ Customizable settings and export results  
 
----
-
-## 🚀 Live Demo
-
-Try it instantly with Streamlit:  
-👉 [Run on Streamlit Cloud](https://share.streamlit.io/yourusername/image-caption-generator)
-
----
 
 ## 🛠️ Tech Stack
 
